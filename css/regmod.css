@@ -1,0 +1,25 @@
+.scontainer
+{
+	margin-top:70px;
+	padding-left:10px;
+	padding-bottom:10px;
+	padding-right:10px;
+	padding-top:10px;
+	font-family:"Impact";
+}
+img
+{
+	opacity:0.8;
+}
+img:hover
+{
+	opacity:1;
+}
+.lheader
+{
+	padding:10px;
+}
+.lmodules
+{
+	padding-top:30px;
+}

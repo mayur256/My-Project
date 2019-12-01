@@ -1,0 +1,12 @@
+<?php
+	session_start();
+	if(isset($_SESSION["logid"]))
+	{
+		session_destroy();
+	}
+?>
+	<script>
+	window.location.href="http://127.0.0.1/projects/Padoc/doc_log.php";
+	</script>
+<?php
+?>

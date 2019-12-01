@@ -1,0 +1,29 @@
+#card-deck
+{
+	position:absolute;
+	top:150px;
+}
+body
+{
+	background-color:hsla(120,100%,25%,0.4);
+}
+#xyz
+{
+	font-family:"Consolas";
+	font-weight:bold;
+	font-size:60px;
+	letter-spacing:20px;
+	color:hsl(0, 0%, 100%);
+}
+#log_container
+{
+	margin-top: 100px;
+  	margin-bottom: 100px;
+  	margin-right: 300px;
+  	margin-left: 300px;
+	padding: 25px 25px 25px 25px;		
+}
+#background
+{
+	background-color:hsla(210,78%,30%,0.3);
+}
